@@ -1,0 +1,72 @@
+table {
+    text-align: center;
+    width: 600px;   
+    font-family: Georgia;
+    color: rgb(238, 11, 11);
+    background-color: rgb(255, 196, 0);
+    text-decoration: none;
+
+}
+
+.navbar_td{
+    border-right: 4px solid rgb(245, 241, 239);
+    padding: 5px 10px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+.banner .left_imag{
+    border: 1px solid rgb(240, 234, 234);
+    width: 460px;
+    display: inline-block;
+    margin-right: 30px;
+}
+.banner .left_imag img{
+    width: 100%;
+}
+.banner .right_imag{
+    border: 1px solid rgb(238, 241, 238);
+    width: 268px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.banner .right_imag .top{
+    /* border: 1px solid red; */
+    height: 95px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.banner .right_imag .bottom{
+    /* border: 1px solid red; */
+    height: 95px;
+    text-align: center;
+}
+.food_details .food{
+    border: 1px solid rgb(247, 246, 246);
+    width: 180px;
+    height: 170px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.featured_taco .taco{
+    border: 1px solid rgb(250, 248, 248);
+    width: 200px;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.featured_taco .featured{
+    border: 1px solid rgb(245, 241, 241);
+    display: inline-block;
+    padding-bottom: 20px;
+    vertical-align: top;
+}
+.featured a{
+    border: 1px solid rgb(252, 249, 249);
+    color: black;
+    background-color: rgb(255, 146, 4);
+    padding: 10px 30px;
+    text-decoration: none;
+}
